@@ -1,0 +1,33 @@
+_repo: Seven-Discourses-on-Art_2176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, Joshua, Sir
+    birthdate: 1723
+    deathdate: 1792
+    gutenberg_agent_id: '844'
+    url: http://www.gutenberg.org/2009/agents/844
+    wikipedia: http://en.wikipedia.org/wiki/Joshua_Reynolds
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+- GITenberg
+title: Seven Discourses on Art
+url: http://www.gutenberg.org/ebooks/2176
